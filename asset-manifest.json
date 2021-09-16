@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hanastudio1/static/css/main.a617e044.chunk.css",
+    "main.js": "/hanastudio1/static/js/main.dffaf819.chunk.js",
+    "main.js.map": "/hanastudio1/static/js/main.dffaf819.chunk.js.map",
+    "runtime-main.js": "/hanastudio1/static/js/runtime-main.745f77aa.js",
+    "runtime-main.js.map": "/hanastudio1/static/js/runtime-main.745f77aa.js.map",
+    "static/js/2.3094fb8f.chunk.js": "/hanastudio1/static/js/2.3094fb8f.chunk.js",
+    "static/js/2.3094fb8f.chunk.js.map": "/hanastudio1/static/js/2.3094fb8f.chunk.js.map",
+    "static/js/3.d93947dd.chunk.js": "/hanastudio1/static/js/3.d93947dd.chunk.js",
+    "static/js/3.d93947dd.chunk.js.map": "/hanastudio1/static/js/3.d93947dd.chunk.js.map",
+    "index.html": "/hanastudio1/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hanastudio1/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3094fb8f.chunk.js.LICENSE.txt": "/hanastudio1/static/js/2.3094fb8f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hanastudio1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.745f77aa.js",
+    "static/js/2.3094fb8f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dffaf819.chunk.js"
+  ]
+}
