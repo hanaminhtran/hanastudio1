@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hanastudio1/static/css/main.d77435e6.chunk.css",
-    "main.js": "/hanastudio1/static/js/main.41b66006.chunk.js",
-    "main.js.map": "/hanastudio1/static/js/main.41b66006.chunk.js.map",
+    "main.js": "/hanastudio1/static/js/main.3f258e44.chunk.js",
+    "main.js.map": "/hanastudio1/static/js/main.3f258e44.chunk.js.map",
     "runtime-main.js": "/hanastudio1/static/js/runtime-main.8bae6301.js",
     "runtime-main.js.map": "/hanastudio1/static/js/runtime-main.8bae6301.js.map",
     "static/css/2.d47d8948.chunk.css": "/hanastudio1/static/css/2.d47d8948.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.d47d8948.chunk.css",
     "static/js/2.1e4e22f0.chunk.js",
     "static/css/main.d77435e6.chunk.css",
-    "static/js/main.41b66006.chunk.js"
+    "static/js/main.3f258e44.chunk.js"
   ]
 }
