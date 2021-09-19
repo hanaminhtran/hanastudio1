@@ -51,6 +51,5 @@
   },
   "devDependencies": {
     "@types/webextension-polyfill": "^0.8.0"
-  },
-  "proxy":  "https://tiemchungcovid19.gov.vn/"
+  }
 }
