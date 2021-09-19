@@ -2,9 +2,6 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import CovidVaccine from './CovidVaccine';
-
-
-import { starredIntoLocal } from "./import/google-translate"
 import { Person } from './PersonProps';
 
 class  App extends React.Component{
