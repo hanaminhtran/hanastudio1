@@ -11,12 +11,17 @@
     "@types/node": "^12.20.25",
     "@types/react": "^17.0.21",
     "@types/react-dom": "^17.0.9",
+    "axios": "^0.21.4",
     "gh-pages": "^3.2.3",
+    "http-proxy-middleware": "^2.0.1",
     "react": "^17.0.2",
+    "react-datetime-picker": "^3.4.0",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "request": "^2.88.2",
     "typescript": "^4.4.3",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "webextension-polyfill": "^0.8.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -25,7 +30,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/webextension-polyfill": "^0.8.0"
   }
 }
